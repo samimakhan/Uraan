@@ -30,7 +30,9 @@ Here at Uraan, its your chance to fly.
 ![JobDetail](https://github.com/Nabeel110/Uraan/blob/main/Screenshots/05_Job%20detail.png)
 
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samima-khan) [Gmail](mailto:samimakhan16@gmail.com)
+- 📫 How to reach us: 
+- Samima Khan [LinkedIn](https://www.linkedin.com/in/samima-khan) [Gmail](mailto:samimakhan16@gmail.com)
+- Nabeel Ahmed [LinkedIn](https://www.linkedin.com/in/problem-solver-nabeel-ahmed/) [Gmail] (mailto:nabeelmoolji1@gmail.com)
 
-⭐️ From [Samima](https://github.com/samimakhan)
+⭐️ From [Samima](https://github.com/samimakhan) and Nabeel (https://github.com/nabeel110)
 
