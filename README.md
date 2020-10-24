@@ -15,19 +15,19 @@ Here at Uraan, its your chance to fly.
 ## Below are some UI of the website:
 
 ### Home Page Screen
-![alt text](https://github.com/Nabeel110/Uraan/blob/master/Screenshots/01_Homepage.png)
+![HomePage](https://github.com/Nabeel110/Uraan/blob/main/Screenshots/01_Homepage.png)
 
 ### SignUp Screen
-![alt text](https://github.com/Nabeel110/Uraan/blob/master/Screenshots/02_Signup.png)
+![SignUp](https://github.com/Nabeel110/Uraan/blob/main/Screenshots/02_Signup.png)
 
 ### SignIn Screen
-![alt text](https://github.com/Nabeel110/Uraan/blob/master/Screenshots/03_Signin.png)
+![SignIn](https://github.com/Nabeel110/Uraan/blob/main/Screenshots/03_Signin.png)
 
 ### Job Listing Screen
-![alt text](https://github.com/Nabeel110/Uraan/blob/master/Screenshots/04_Listing%20page.jpg)
+![jobListing](https://github.com/Nabeel110/Uraan/blob/main/Screenshots/04_Listing%20page.jpg)
 
 ### Job Detail Screen
-![alt text](https://github.com/Nabeel110/Uraan/blob/master/Screenshots/05_Job%20detail.png)
+![JobDetail](https://github.com/Nabeel110/Uraan/blob/main/Screenshots/05_Job%20detail.png)
 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nabeel-ahmed-moolji-880a6316b/) [Gmail](mailto:nabeelmoolji1@gmail.com)
